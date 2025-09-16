@@ -1,0 +1,159 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "430c65ba-3a78-4740-9d3a-5790bc629b9e")
+	(paper "A4")
+	(title_block
+		(title "Beijing version 32C3")
+		(date "2022-06-09")
+		(rev "B")
+		(company "Grodans Paradis AB")
+		(comment 1 "VSCP A/D module with CAN/EWifi and BLE communication")
+		(comment 2 "https://www.vscp.org")
+	)
+	(lib_symbols)
+	(text "A"
+		(exclude_from_sim no)
+		(at -3.81 260.35 0)
+		(effects
+			(font
+				(size 1.778 1.5113)
+			)
+			(justify left bottom)
+		)
+		(uuid "572232cb-eba8-412b-9ad9-2af0f9cb3c2e")
+	)
+	(sheet
+		(at 54.61 16.51)
+		(size 30.48 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "53f157e8-9d03-4631-84d0-2ef9d76dcdd3")
+		(property "Sheetname" "counter"
+			(at 54.61 15.7984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "counter.kicad_sch"
+			(at 54.61 31.0646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "beijing_A"
+				(path "/430c65ba-3a78-4740-9d3a-5790bc629b9e"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 311.15 1.27)
+		(size 34.29 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8ab68ddc-4afa-4f1a-8cd5-9dfc0c233725")
+		(property "Sheetname" "counter"
+			(at 311.15 0.5584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "counter.kicad_sch"
+			(at 311.15 19.6346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "beijing_A"
+				(path "/430c65ba-3a78-4740-9d3a-5790bc629b9e"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 20.32 17.78)
+		(size 29.21 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b654bbca-cbca-4b0b-b960-f24ed6c31074")
+		(property "Sheetname" "CPU"
+			(at 20.32 17.0684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "cpu.kicad_sch"
+			(at 20.32 31.0646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "beijing_A"
+				(path "/430c65ba-3a78-4740-9d3a-5790bc629b9e"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

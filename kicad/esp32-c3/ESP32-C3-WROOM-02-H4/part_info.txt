@@ -1,0 +1,9 @@
+Manufacturer=Espressif Systems
+PartNumber=ESP32-C3-WROOM-02-H4
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=27
+Version=1.6
+Released=2021-07-02 15:59:02
+Downloaded=2022-06-09 16:20:44
+3D=Y

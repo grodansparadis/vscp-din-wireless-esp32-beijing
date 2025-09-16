@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP32-C3-WROOM-02-H4
+D WiFi Modules (802.11) SMD module, ESP32-C3, 4MB SPI flash, PCB antenna, -40 C +105 C
+K
+F https://www.mouser.in/datasheet/2/891/Espressif_Systems_04082021_ESP32_C3_WROOM_02-2295851.pdf
+$ENDCMP
+#
+#End Doc Library
